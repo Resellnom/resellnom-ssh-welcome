@@ -3,7 +3,7 @@
 Free, lightweight and customizable SSH login branding for Linux servers.
 
 **GitHub:** https://github.com/Resellnom/resellnom-ssh-welcome  
-**Donation & Crypto:** https://pay.resellnom.com
+**Donation ** https://pay.resellnom.com
 
 ## Features
 
@@ -44,11 +44,7 @@ chmod +x install.sh
 sudo ./install.sh
 ```
 
-Or run the installer directly from your own GitHub repository:
 
-```bash
-curl -fsSL https://raw.githubusercontent.com/Resellnom/resellnom-ssh-welcome/main/install.sh | sudo bash
-```
 
 The installer asks for:
 
