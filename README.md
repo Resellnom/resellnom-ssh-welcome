@@ -3,7 +3,7 @@
 Free, lightweight and customizable SSH login branding for Linux servers.
 
 **GitHub:** https://github.com/Resellnom/resellnom-ssh-welcome  
-**Donation ** https://pay.resellnom.com
+**Donation ** https://resellnom.com/pay
 
 ## Features
 
@@ -148,7 +148,7 @@ Free to use, modify, fork, redistribute and use commercially.
 If this project is useful to you, you can support development with:
 
 **Donation & Crypto:**  
-https://pay.resellnom.com
+https://resellnom.com/pay
 
 ⭐ Star the repository if you like it.
 
