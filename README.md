@@ -38,7 +38,7 @@ Designed for Linux distributions using `/etc/profile.d/`, including:
 Clone your fork:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/Resellnom/resellnom-ssh-welcome.git
 cd YOUR-REPOSITORY
 chmod +x install.sh
 sudo ./install.sh
@@ -47,7 +47,7 @@ sudo ./install.sh
 Or run the installer directly from your own GitHub repository:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPOSITORY/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/Resellnom/resellnom-ssh-welcome/main/install.sh | sudo bash
 ```
 
 The installer asks for:
