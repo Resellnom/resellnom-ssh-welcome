@@ -39,7 +39,7 @@ Clone your fork:
 
 ```bash
 git clone https://github.com/Resellnom/resellnom-ssh-welcome.git
-cd YOUR-REPOSITORY
+cd resellnom-ssh-welcome.git
 chmod +x install.sh
 sudo ./install.sh
 ```
